@@ -1,6 +1,6 @@
 🎵 Musify – Spotify-Inspired Web Application
 
-by Othmane Settat . Ryan Bajjou · Alaa Maachouk 
+by Othmane Settat . Ryan Bajjou · Alaa Maachouk .Mohamed Hilali
 
 📌 Project Overview
 
